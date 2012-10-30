@@ -1,0 +1,5 @@
+# Set device permission here
+/dev/wcd9310        0660   system       audio
+/dev/pn544	    0600   nfc          nfc
+/dev/qseecom        0660   root         system
+/dev/i2c-3          0660   system       system
